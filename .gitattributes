@@ -1,3 +1,4 @@
 .metadata linguist-generated=true
 *.yaml linguist-generated=true
 *.yml linguist-generated=true
+*.java linguist-vendored=true
